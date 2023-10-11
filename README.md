@@ -2,4 +2,4 @@
 
 test
 
-I love [wikipedia]（https://ja.wikipedia.org）!
+I love [wikipedia](https://ja.wikipedia.org)
